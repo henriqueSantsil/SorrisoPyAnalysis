@@ -19,7 +19,7 @@ Para construir este modelo, criei um pipeline de dados unindo duas fontes oficia
 A princípio, após passar por uma jornada enriquecedora (e um tanto complexa) para conseguir dados valioso e inteiriços, e aplicar diversas técnicas de tratamento e manipulação dos dados,
 pude realizar o primeiro treinamento de um modelo Random Forest (de regressão). Os resultados pra uma primeira tentativa foram "curiosos":
 > Erro absoluto: 351.53 kg/ha
-> R^2 Score: 0.019 %
+> R^2 Score: 1,9 %
 Foi então que percebi que o que estava faltando um coisa crucial para os meus dados: regras de negócio.
 
 ## Feature Engineering Agronômico
